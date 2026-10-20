@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **D-square** · Team ID `VTU-QFF-HC-0164` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#D-square)
+[⬆ Back to Top](#d-square)
 
 </div>
